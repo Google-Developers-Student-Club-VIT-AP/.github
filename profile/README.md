@@ -1,12 +1,30 @@
-# About Us
-### Empower. Build. Impact.
+<h1 align="center"> Empower. Build. Impact.</h1>
 
 
 <img width="990" alt="logo" src="https://user-images.githubusercontent.com/65449934/213941088-09b53dc8-6907-4eac-88aa-0cc56e3c98ce.png">
 
-We're the **Google Developers Student Club**, a community of learners and creators with a mission to empower and inspire the next generation of developers and leaders through ideas, code and innovation. We strive to make a real impact on the world by harnessing the power of technology to solve real-world problems and drive positive change. 
+<h4 align="center">GDSC VIT-AP is a student community with a mission to empower and inspire the next generation of developers and builders through exchange of ideas, code and innovation.</h4>
 
-Our community is dedicated to fostering an environment of creativity, collaboration, and continuous learning, where members can develop the skills they need to succeed in today's digital landscape. 
+<br />
 
-Our social impact mission is at the core of everything we do, as we believe that technology has the power to transform lives and build a better future for all. Together, we code, innovate, and make a difference.
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://dsc.community.dev/vellore-institute-of-technology/)
+[![Discord Chat](https://img.shields.io/discord/760928671698649098.svg)](https://discord.gg/kxb8tqvtSF)
 
+<p align="center"> We at GDSC VIT-AP :heart: Open-Source!</p>
+
+Get Involved
+----
+Right now, our community is revamping websites and looking to build some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+
+- Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/gdsc-vitap/repositories).
+
+<div align="center">
+<h3>Connect With us on</h3>
+<a href="https://twitter.com/gdscvitap" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/company/gdscvitap" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/gdscvitap" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+</div>
+
+----
+
+GDSC VIT-AP projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information, see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
