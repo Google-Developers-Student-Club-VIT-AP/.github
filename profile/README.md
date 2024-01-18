@@ -3,7 +3,7 @@
 
 <img width="990" alt="logo" src="https://user-images.githubusercontent.com/65449934/213941088-09b53dc8-6907-4eac-88aa-0cc56e3c98ce.png">
 
-<h4 align="center">GDSC VIT-AP is a student community with a mission to empower and inspire the next generation of developers and builders through exchange of ideas, code and innovation.</h4>
+<h4 align="center">We are a student community with a mission to empower the next generation of developers and builders through exchange of ideas, code and innovation.</h4>
 
 <br />
 
@@ -14,7 +14,7 @@
 
 Get Involved
 ----
-Right now, our community is revamping websites and looking to build some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Right now, our community is revamping existing websites and looking to build some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 - Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/gdsc-vitap/repositories).
 
